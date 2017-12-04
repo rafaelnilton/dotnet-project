@@ -1,2 +1,2 @@
-# dotnet-project
-Project for dotnet class
+# Blog Project for .net class
+
